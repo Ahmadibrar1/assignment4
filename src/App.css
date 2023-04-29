@@ -1,0 +1,46 @@
+body{
+
+  background-image: url("./images/weth.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.button{
+  align-content: center;
+  
+    margin-right: 20px;
+ 
+}
+.wetherBg{
+  background: url("https://www.accuweather.com/images/hero/4/1440x450.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size:55px;
+  font-weight: 700;
+}
+.slct{
+  display: flex;
+justify-content: center;
+}
+.slct1{
+  margin-left: 2px;
+}
